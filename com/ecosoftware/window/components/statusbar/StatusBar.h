@@ -6,6 +6,7 @@
 
 // Librerías Qt
 #include <QStatusBar>
+#include <QLabel>
 
 namespace Com {
 

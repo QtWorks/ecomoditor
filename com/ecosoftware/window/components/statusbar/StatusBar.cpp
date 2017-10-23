@@ -4,22 +4,16 @@ using namespace Com::Ecosoftware::Window::Components::Statusbar;
 
 StatusBar::StatusBar ( QWidget *parent ) : QStatusBar ( parent ) {}
 
-StatusBar::~StatusBar()
-{
+StatusBar::~StatusBar () {}
 
+void StatusBar::addNewSection () {
+// TODO: Hacer código para agregar una sección.
 }
 
-void StatusBar::addNewSection()
-{
-
+void StatusBar::hideSection () {
+  // TODO: Hacer código para ocultar una sección.
 }
 
-void StatusBar::hideSection()
-{
-
-}
-
-void StatusBar::showSection()
-{
-
+void StatusBar::showSection () {
+  // TODO: Hacer código para mostrar una sección.
 }

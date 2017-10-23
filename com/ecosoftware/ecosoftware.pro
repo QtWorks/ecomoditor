@@ -5,7 +5,7 @@ SUBDIRS += \
   console \
   singleinstance \
   resources \
-    window
+  window
 
 CONFIG += ordered
 
